@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/s9iper1/Downloads/android - AS/AndroidWebView/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices_fdb35ab8fc3b13f4885f0d3c60f7b88b42020662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/s9iper1/Downloads/android - AS/AndroidWebView/libs/gallery-lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e99b23840e364405f578e3d75d5ddde501837d59">
+        <dex dex="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/pre-dexed/debug/gallery-lib_e4119c7f393048d7dfe7f56a4a3a228b491fb1fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/exploded-aar/android - AS/google-play-services_lib/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4ac848d48785173aa7b8cd6a7c2ba8d9d736d514">
+        <dex dex="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/pre-dexed/debug/google-play-services_13fbc057ddb08bf3b102a6e7931b21ed22954d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/s9iper1/Downloads/android - AS/AndroidWebView/libs/universal-image-loader.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/pre-dexed/debug/universal-image-loader_616a942edf86f0a76a7c05ed518e40a0d7c89353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/exploded-aar/android - AS/google-play-services_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b3bcb5536ea426fbf9981ab8906f0bdf84b0fe06">
+        <dex dex="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/pre-dexed/debug/android - AS-google-play-services_lib-unspecified_b81a2dbc678f17b358f30189fc7bd2e2babebf74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/s9iper1/Downloads/android - AS/AndroidWebView/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/pre-dexed/debug/gson-2.2.4_a56f40ac4682275816a470f9d44459dbfa871988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/s9iper1/Downloads/android - AS/AndroidWebView/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/pre-dexed/debug/android-support-v4_eddf8166d3644ba5db4bbb4d7a9990ee2dd053a2.jar" />
+    </item>
+
+</items>

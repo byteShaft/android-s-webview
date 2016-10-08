@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/lounch.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/lounch.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/cart.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/cart.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/wifi.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/wifi.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/luxury.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/luxury.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/mob.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/mob.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/youtube.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/youtube.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/archive.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/archive.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/ltwiter.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/ltwiter.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/web.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/web.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/backup.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/backup.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/favorite.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/favorite.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/mobile.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/mobile.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/awards.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/awards.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/files.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/files.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/records.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/records.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/fax.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/fax.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/payments.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/payments.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/games.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/games.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/airplane.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/airplane.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/massages.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/massages.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/places.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/places.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/backup.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/backup.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/dropbox.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/dropbox.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/travel.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/travel.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/splash_ikonica.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/splash_ikonica.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/atachments.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/atachments.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/talk.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/talk.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/pricing.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/pricing.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/refresh.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/refresh.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/printers.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/printers.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/statictic.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/statictic.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/favorite.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/favorite.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/travel.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/travel.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/luxury.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/luxury.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/dashboard.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/dashboard.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/send.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/send.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/dashboard.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/dashboard.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/atachments.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/atachments.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/payments.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/payments.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/places.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/places.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/splash_ikonica.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/splash_ikonica.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/drawings.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/drawings.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/screen.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/sport.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/sport.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/images.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/images.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/awards.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/awards.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/songs.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/songs.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/images.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/images.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/cart.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/cart.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/map.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/map.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/ltwiter.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/ltwiter.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/speedtest.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/speedtest.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/pinterest.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/pinterest.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/talk.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/talk.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/massages.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/massages.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/sport.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/sport.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/fire.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/fire.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/facebook.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/cloudup.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/cloudup.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/linkedin.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/linkedin.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/clouddown.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/clouddown.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/collections.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/collections.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/collections.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/collections.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/aboutus.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/aboutus.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/education.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/education.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/music.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/music.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/songs.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/songs.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/labs.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/labs.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/screen.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/support.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/support.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/support.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/support.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/airplane.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/airplane.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/games.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/games.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/map.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/map.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/web.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/web.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/music.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/music.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/listen.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/listen.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/pricing.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/pricing.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/login.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/drawings.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/drawings.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/youtube.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/youtube.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/contact.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/contact.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/wifi.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/wifi.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/mobile.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/mobile.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/files.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/files.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/facebook.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/education.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/education.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/linkedin.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/linkedin.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/labs.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/labs.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/fire.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/fire.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/protection.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/protection.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/globe.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/globe.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/home.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/moustache.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/moustache.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/takeabrake.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/takeabrake.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/timeline.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/timeline.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/archive.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/archive.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/moustache.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/moustache.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/speedtest.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/speedtest.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/gifts.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/gifts.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/fax.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/fax.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/favorite2.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/favorite2.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/clouddown.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/clouddown.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/globe.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/globe.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/favorite2.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/favorite2.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/lounch.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/lounch.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/photo.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/photo.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/pinterest.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/pinterest.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/settings.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/analytics.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/analytics.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/aboutus.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/aboutus.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/cloudup.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/cloudup.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/protection.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/protection.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/takeabrake.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/takeabrake.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/login.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/mob.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/mob.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/analytics.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/analytics.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/dropbox.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/dropbox.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/photo.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/photo.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/contact.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/contact.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/refresh.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/refresh.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/video.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/video.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/listen.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/listen.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/gifts.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/gifts.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/statictic.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/statictic.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/flickr.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/flickr.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/records.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/records.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/share.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/share.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/video.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/video.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/flickr.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/flickr.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/home.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/onoff.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/onoff.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/timeline.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/timeline.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/send.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/send.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/onoff.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/onoff.png"
+    },
+    {
+        "merged": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/share.png",
+        "source": "/home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/res/drawable-hdpi/share.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/printers.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/printers.png"
+    },
+    {
+        "merged": "/home/s9iper1/Downloads/android - AS/AndroidWebView/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/home/s9iper1/Downloads/android - AS/AndroidWebView/res/drawable-hdpi/ic_drawer.png"
+    }
+]

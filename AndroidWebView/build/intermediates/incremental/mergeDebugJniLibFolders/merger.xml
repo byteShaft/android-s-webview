@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/s9iper1/Downloads/android - AS/AndroidWebView/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/s9iper1/Downloads/android - AS/AndroidWebView/build-types/debug/jniLibs"/></dataSet></merger>

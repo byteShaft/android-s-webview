@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_activity_divider">#5559A62A</color>
+    <color name="action_bar_background">#007597</color>
+    <color name="brown">@color/action_bar_background</color>
+    
+    <color name="divider_color">#faaf40</color>
+    
+    <color name="white_10_percent">#1affffff</color>
+    <color name="white_20_percent">#33ffffff</color>
+    <color name="white_25_percent">#40ffffff</color>
+    <color name="white_30_percent">#4affffff</color>
+    <color name="white_75_percent">#bfffffff</color>
+    <color name="white_80_percent">#ccffffff</color>
+    <color name="white_90_percent">#e6ffffff</color>
+    
+    <color name="left_menu_selected">#33f7931d</color>
+    
+    
+    <color name="white_button_color">#6ea29c</color>
+    <color name="white_button_color_selected">#80a4ac9b</color>
+    
+    <!-- Gradient background colors -->
+    <color name="start_color">#abe0f9</color>
+    <color name="center_color">#5badc8</color>
+    <color name="end_color">#488ba0</color>
+    
+    <color name="progress_bar_color">#f7931d</color>
+    
+    <color name="red_button_100">#ffb8290b</color>
+    <color name="red_button_50">#80b8290b</color>
+    
+    <color name="main_orange">#faaf40</color>
+
+</resources>

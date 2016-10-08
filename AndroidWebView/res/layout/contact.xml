@@ -1,0 +1,534 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gradient_background"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/progress_bar_color" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/logo_contact" />
+
+            <TextView
+                android:id="@+id/contact_company_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:text="@string/company_name"
+                android:textColor="@android:color/white"
+                android:textSize="28sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/contact_divider" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/layout_item_selected" >
+
+                <TextView
+                    android:id="@+id/contact_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="tel"
+                    android:textColor="@color/action_bar_background"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/contact_phone_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="8dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/white_button_selector"
+                    android:padding="5dp"
+                    android:src="@drawable/contact" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/layout_item_selected" >
+
+                <TextView
+                    android:id="@+id/contact_fax"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="fax"
+                    android:textColor="@color/action_bar_background"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/contact_fax_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="8dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/white_button_selector"
+                    android:padding="5dp"
+                    android:src="@drawable/fax" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/layout_item_selected" >
+
+                <TextView
+                    android:id="@+id/contact_mob"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="mob"
+                    android:textColor="@color/action_bar_background"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/contact_mob_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="8dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/white_button_selector"
+                    android:padding="5dp"
+                    android:src="@drawable/mob" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/layout_item_selected" >
+
+                <TextView
+                    android:id="@+id/contact_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="email"
+                    android:textColor="@color/action_bar_background"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/contact_email_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="8dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/white_button_selector"
+                    android:padding="5dp"
+                    android:src="@drawable/email" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/layout_item_selected" >
+
+                <TextView
+                    android:id="@+id/contact_web"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="web"
+                    android:textColor="@color/action_bar_background"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/contact_web_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="8dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/white_button_selector"
+                    android:padding="5dp"
+                    android:src="@drawable/web" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/layout_item_selected" >
+
+                <TextView
+                    android:id="@+id/contact_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="address"
+                    android:textColor="@color/action_bar_background"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/contact_address_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="8dp"
+                    android:layout_weight="0"
+                    android:background="@drawable/white_button_selector"
+                    android:padding="5dp"
+                    android:src="@drawable/map" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#aaa"
+                android:orientation="vertical"
+                android:padding="10dp" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/contact_template_phone_numbers_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="@string/phone_numbers"
+        android:textColor="#fff" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="18dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:id="@+id/contact_template_tel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/contact_template_tel_call"
+            style="@style/RedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/selector_red"
+            android:drawableLeft="@drawable/login"
+            android:drawablePadding="4dp"
+            android:paddingRight="8dp"
+            android:text="@string/call"
+            android:textColor="@color/main_orange" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="18dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:id="@+id/contact_template_mob"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingTop="2dp"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/contact_template_mob_call"
+            style="@style/RedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/selector_red"
+            android:drawableLeft="@drawable/login"
+            android:drawablePadding="4dp"
+            android:paddingRight="8dp"
+            android:text="@string/call"
+            android:textColor="@color/main_orange" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/red_button_100" />
+
+    <TextView
+        android:id="@+id/contact_template_fax_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="@string/fax_phone"
+        android:textColor="#fff" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="18dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:id="@+id/contact_template_fax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/contact_template_fax_call"
+            style="@style/RedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/selector_red"
+            android:drawableLeft="@drawable/login"
+            android:drawablePadding="4dp"
+            android:paddingRight="8dp"
+            android:text="@string/call"
+            android:textColor="@color/main_orange" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/red_button_100" />
+
+    <TextView
+        android:id="@+id/contact_template_email_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="@string/email"
+        android:textColor="#fff" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="18dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:id="@+id/contact_template_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/contact_template_email_send"
+            style="@style/RedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_red"
+            android:drawableLeft="@drawable/login"
+            android:drawablePadding="4dp"
+            android:paddingRight="8dp"
+            android:text="@string/send"
+            android:textColor="@color/main_orange" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/red_button_100" />
+
+    <TextView
+        android:id="@+id/contact_template_web_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="@string/web"
+        android:textColor="#fff" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="18dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:id="@+id/contact_template_web"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/contact_template_web_visit"
+            style="@style/RedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_red"
+            android:drawableLeft="@drawable/login"
+            android:drawablePadding="4dp"
+            android:paddingRight="8dp"
+            android:text="@string/visit"
+            android:textColor="@color/main_orange" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="18dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:id="@+id/contact_template_facebook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/contact_template_facebook_visit"
+            style="@style/RedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_red"
+            android:drawableLeft="@drawable/login"
+            android:drawablePadding="4dp"
+            android:paddingRight="8dp"
+            android:text="@string/visit"
+            android:textColor="@color/main_orange" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="18dp"
+        android:paddingRight="12dp"
+        android:paddingTop="4dp" >
+
+        <TextView
+            android:id="@+id/contact_template_twiter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/contact_template_twiter_visit"
+            style="@style/RedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_red"
+            android:drawableLeft="@drawable/login"
+            android:drawablePadding="4dp"
+            android:paddingRight="8dp"
+            android:text="@string/visit"
+            android:textColor="@color/main_orange" />
+    </LinearLayout>
+
+</LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/contact_open_map"
+            style="@style/RedButton"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:drawableLeft="@drawable/login"
+            android:paddingBottom="11dp"
+            android:paddingLeft="54dp"
+            android:paddingRight="54dp"
+            android:paddingTop="11dp"
+            android:text="@string/open_map" >
+
+        </TextView>
+        -->
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:3:5-48
+	android:versionName
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:5:5-30
+		INJECTED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml
+		INJECTED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:4:5-28
+		INJECTED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml
+		INJECTED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:7:5-9:41
+MERGED from [android - AS:google-play-services_lib:unspecified] /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/build/intermediates/exploded-aar/android - AS/google-play-services_lib/unspecified/AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:13:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:14:5-98
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:14:22-95
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:15:22-66
+uses-feature#0x00020000
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:17:5-19:35
+	android:glEsVersion
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:18:9-41
+	android:required
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:19:9-32
+application
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:21:5-50:19
+	android:label
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:25:9-52
+meta-data#com.google.android.gms.version
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:26:9-28:69
+	android:value
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:27:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:29:9-31:71
+	android:value
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:31:13-68
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:30:13-62
+activity#com.csform.android.androidwebview.MainActivity
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:34:13-186
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:33:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:39:27-74
+activity#com.csform.android.androidwebview.MapActivity
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:42:9-45:20
+	android:configChanges
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:44:13-186
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:43:13-73
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:46:9-49:20
+	android:configChanges
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:48:13-122
+	android:name
+		ADDED from /home/s9iper1/AndroidStudioProjects/android - AS/AndroidWebView/AndroidManifest.xml:47:13-65
